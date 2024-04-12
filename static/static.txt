@@ -1,0 +1,1 @@
+This is an static file inside static folder just for checking and working experience
